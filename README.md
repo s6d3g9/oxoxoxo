@@ -1,4 +1,4 @@
-# oxoxoxo
+# VPN Project (oxoxoxo)
 
-Мы работали над проектом VPN.
-We worked on a VPN project.
+Этот репозиторий фиксирует нашу работу над проектом VPN.
+This repository captures our work on a VPN project.
